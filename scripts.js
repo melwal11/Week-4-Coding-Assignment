@@ -1,1 +1,2 @@
-let names ['Sam', "tommy", "Tim", "Sally", "Buck", "Bob"]
+let names = ['Sam', "Tommy", "Tim", "Sally", "Buck", "Bob"]
+console.log(names[2])
